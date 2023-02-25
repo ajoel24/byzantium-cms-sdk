@@ -1,4 +1,4 @@
-import { IPost } from "../model/IPost";
+import { IPost } from "../model";
 
 export interface IPostService {
   getPostById(id: number): IPost | null;

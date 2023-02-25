@@ -1,7 +1,6 @@
 {
   "name": "@ajoel24/byzantium-cms-sdk",
   "description": "SDK specification for Byzantium project",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/app.umd.cjs",
